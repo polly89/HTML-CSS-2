@@ -1,0 +1,54 @@
+.firstContainer{
+    border:4px solid black;
+    padding: 5px;
+    width: 98.5%;
+    height:20vh;
+}
+.firstRectangle{
+    background-color: #8a2be2;
+    width: 3%;
+    height: 75%;
+    margin-top:47px;
+}
+.secondRectangle{
+    background-color: #228b22;
+    width: 30%;
+    height: 95%;
+    margin-left:5%;
+    margin-top:-180px
+}
+.circle{
+    background-color: #87ceeb;
+    width: 10%;
+    height: 95%;
+    border-radius: 50%;
+    margin-left:37%;
+    margin-top: -180px;
+}
+.secondContainer{
+    border:7px dotted black;
+    margin-top: 10px;
+    width: 98.5%;
+    height:30vh;
+}
+.innerYellowRec{
+  background-color: #fffacd;
+  box-shadow:5px 10px 8px black;
+  width:95%;
+  height: 70%;
+  margin: 37px;
+}
+h1{
+    color: #353993;
+    padding-top:80px;
+    text-align: center;
+}
+.thirdContainer{
+    letter-spacing: 10px;
+    width: 800px;
+    height: 300px;
+    border:1px solid lightgray;
+    margin-top: 20px;
+    margin-left: 25%;
+    box-shadow:5px 10px 8px lightgray;
+}
