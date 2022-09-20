@@ -1,0 +1,190 @@
+
+body{
+    margin:0;
+    padding:0;
+    background-color: black;
+}
+.backgroundImages{
+    width: 100%;
+}
+.header{
+    position:fixed;
+    height: 10px;
+    width: auto;
+    margin-left: 20%;
+    margin-top: 20px;
+    margin-bottom: 0;
+}
+.hamburgerMenu{
+    width: 1%;
+    margin-right:10px;
+    position:fixed;
+    margin-left:95%;
+    margin-top:20px;
+
+}
+.shopButtom{
+    position:fixed;
+    height: 20px;
+    margin-left:90%;
+    margin-top:20px;
+    margin-bottom: 0;
+    padding-left: 0px;
+    color:white;
+    background: transparent;
+    background-repeat: no-repeat;
+    border: none;
+    cursor:pointer;
+    overflow:hidden;
+    outline:none;
+}
+.logo{
+    position:fixed;
+    margin-top:-10px;
+    margin-left:250px;
+    color:white;
+    letter-spacing: 10px;
+}
+
+.callToActionButtons1{
+    color:white;
+    background: transparent;
+    background-repeat: no-repeat;
+    border: 1px solid white;
+    cursor:pointer;
+    line-height: 60px;
+    line-clamp: 100px;
+}
+.callToActionButtons2{
+    color:white;
+    background: transparent;
+    background-repeat: no-repeat;
+    border: 1px solid white;
+    cursor:pointer;
+    line-height: 60px;
+    margin-left: 20%;
+    position:absolute;
+    margin-top:-200px;
+
+}
+.callToActionButtons3{
+    color:white;
+    background: transparent;
+    background-repeat: no-repeat;
+    border: 1px solid white;
+    cursor:pointer;
+    line-height: 60px;
+    margin-left:20%;
+    position:absolute;
+    margin-top:-200px;
+}
+.callToActionButtons4{
+    color:white;
+    background: transparent;
+    background-repeat: no-repeat;
+    border: 1px solid white;
+    cursor:pointer;
+    line-height: 60px;
+    margin-left:20%;
+    position:absolute;
+    margin-top:-200px;
+}
+.bigText{
+    top:80%;
+    color: white;
+    font-size: xx-large;
+}
+.smallText{
+    top:78%;
+    color: white;
+    font-size:medium;
+    font-weight: lighter;
+    position:relative;
+}
+.textBlock1{
+    position:absolute;
+    bottom: 40%;
+    left:20%;
+    text-align: left;
+    bottom:0%;
+    letter-spacing: 5px;
+}
+.textBlock2{
+    position:absolute;
+    margin-top: 1000px;
+    left:20%;
+    text-align: left;
+    bottom:0%;
+    letter-spacing: 5px;
+}
+.textBlock3{
+    position:absolute;
+    margin-top: 2200px;
+    left:20%;
+    text-align: left;
+    bottom:0%;
+    letter-spacing: 5px;
+}
+.textBlock4{
+    position:absolute;
+    margin-top: 3200px;
+    left:20%;
+    text-align: left;
+    bottom:0%;
+    letter-spacing: 5px;
+}
+
+.miniLogo{
+    position:absolute;
+    font-size: small;
+    color:gray;
+    margin-top:0px;
+    margin-left:-50px;
+    margin-bottom:0px;
+}
+.footer{
+    height: 10px;
+    margin-left:20%;
+    margin-bottom: 0;
+    margin-right:20%;
+    cursor:pointer;
+}
+a{
+    font-size: small;
+    color:white;
+    margin:10px;
+    margin-left:50px;
+    padding:0px;
+}
+.externalLink1{
+    padding:10px;
+    margin-left:130px;
+}
+.internalLink1{
+    padding:0px;
+    margin-left:120px;
+}
+.internalLink2{
+    padding:0px;
+    margin-left:50px;
+}
+.internalLink3{
+    padding:0px;
+    margin-left:50px;
+}
+.internalLink4{
+    padding:0px;
+    margin-left:50px;
+}
+.internalLink5{
+    padding:0px;
+    margin-left:50px;
+}
+.internalLink6{
+    padding:0px;
+    margin-left:50px;
+}
+.internalLink7{
+    padding:0px;
+    margin-left:50px;
+} 
